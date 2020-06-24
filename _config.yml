@@ -1,7 +1,7 @@
-baseurl: ''
+baseurl: 'vb2ae.github.io'
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Ken Tucker Blog'
 
 collections:
   services:
