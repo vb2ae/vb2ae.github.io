@@ -25,7 +25,7 @@ PLATFORMS
 
 DEPENDENCIES
   nokogiri
-  rack (~> 2.0.1)
+  rack (~> 2.1.4)
   rspec
 
 BUNDLED WITH
