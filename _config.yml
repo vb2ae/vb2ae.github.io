@@ -28,7 +28,7 @@ twitter_username: vb2ae
 github_username:  vb2ae
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
