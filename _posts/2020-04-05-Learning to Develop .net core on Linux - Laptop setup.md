@@ -1,7 +1,7 @@
 The laptop I bought was a HP 15-dy1731ms
 
 
-
+![HP Laptop](/images/hp-dy1731ms.jpeg)
 
 https://www.amazon.com/HP-Touchscreen-i3-1005G1-Bluetooth-15-dy1731ms/dp/B082358X13
 
@@ -19,7 +19,7 @@ In the BIOS i made 2 changes first I disabled secure boot so I could install Lin
 
 Second I made the USB drive a the primary boot device.
 
-
+![Bios](/images/linux screenshot.png) 
 
 
 I went ahead and booted off the Fedora usb drive and installed it to the hard drive.  As part of the install I deleted the windows partitions and let fedora partition the hard drive.
