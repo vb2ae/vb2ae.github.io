@@ -19,9 +19,9 @@ Rather than create a web service to load the data on the first run I went ahead 
 
 I added the Json file to my Xamarin Forms standard library and set its build action to embedded resource
 
-![Solution Explorer](/images/solution explorer.png) 
+![Solution Explorer](/images/SolutionExplorer.png) 
 
-![properties window](/images/json properties.png) 
+![properties window](/images/JsonProperties.png) 
 
 To extract the data I used a function like this.
 
