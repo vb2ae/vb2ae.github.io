@@ -35,4 +35,4 @@ finally I looked in the directory when my solution was located and opened a file
     }  
     
     
-    I was then able to load the project
+ I was then able to load the project
