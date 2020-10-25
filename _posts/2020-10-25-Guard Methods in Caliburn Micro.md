@@ -20,7 +20,7 @@ There are multiple ways to bind a method in your View model to a button click ev
             
  In this example we add an Action Message which is tells the button call a method called CountUp when the button is pressed.
  
- Guard methods will fire before the click method to make sure it is ok to run the button click event.  To add a Guard Method to add a method that starts with Casn before the click event method name.  So for this example the method name is CanCountUp.
+ Guard methods will fire before the click method to make sure it is ok to run the button click event.  To add a Guard Method to add a method that starts with Can before the click event method name.  So for this example the method name is CanCountUp.
  
          public bool CanCountUp(int i)
         {
