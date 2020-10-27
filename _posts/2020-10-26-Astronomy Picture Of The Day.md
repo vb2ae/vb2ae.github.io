@@ -1,4 +1,4 @@
-# Astronomy Picuture of the Day
+# Astronomy Picture of the Day
 
 Durring the 2020 HacktoberFest I updated the Astronomy Picture of the Day class library.  I added the ability to get pictures from the Mars Rovers.
 
