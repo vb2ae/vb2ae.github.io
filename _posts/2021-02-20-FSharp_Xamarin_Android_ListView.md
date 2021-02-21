@@ -1,4 +1,4 @@
-# Learing F% Xamarin.Android ListView
+# Learing F# Xamarin.Android ListView
 
 I am learning F# and decided I would start with a Xamarin.Android project that shows a list view.   
 
