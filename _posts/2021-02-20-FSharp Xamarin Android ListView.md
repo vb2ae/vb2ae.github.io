@@ -4,14 +4,14 @@ I am learning F# and decided I would start with a Xamarin.Android project that s
 
 I decided I would convert the c# example in Mirosoft docs to F#.
 
-https://docs.microsoft.com/en-us/xamarin/android/user-interface/layouts/list-view/
+[https://docs.microsoft.com/en-us/xamarin/android/user-interface/layouts/list-view/] (https://docs.microsoft.com/en-us/xamarin/android/user-interface/layouts/list-view/)
 
 
 I started with a Xamarin.Android blank project with F# as the language
 
 Please all the instructions for adding xml files.
 
-In MainActivity.fs change the class to inherit from ListActivity from Activity
+In MainActivity.fs change the class to inherit from ListActivity instead of Activity
 
 
      type MainActivity () =
@@ -89,5 +89,5 @@ In the MainActivity.fs we want to change the OnCreate function.  First have it c
             
 The code is available in GitHub
 
-https://github.com/vb2ae/FSharpAndroidList
+[https://github.com/vb2ae/FSharpAndroidList]  (https://github.com/vb2ae/FSharpAndroidList)
 
