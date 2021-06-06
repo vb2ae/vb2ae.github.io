@@ -153,3 +153,5 @@ hen it clears the loading message
          }
      }
 
+
+The source code is available on GitHub  https://github.com/vb2ae/CM-Event-Aggregator
