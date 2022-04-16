@@ -5,7 +5,7 @@ Was looking at a Caliburn.Micro bug about getting an binding error while closing
 https://github.com/Caliburn-Micro/Caliburn.Micro/issues/792
   
   Here is a link to repo that shows the issue.
-  https://github.com/to87al/DemoBug
+  [https://github.com/to87al/DemoBug](https://github.com/to87al/DemoBug)
   
   ![App Start](/images/TabControlLaunchPage.png) 
   
@@ -229,7 +229,7 @@ https://github.com/Caliburn-Micro/Caliburn.Micro/issues/792
   
   Reference 
   
-  https://stackoverflow.com/questions/14419248/cannot-find-source-for-binding
   
+  [https://stackoverflow.com/questions/14419248/cannot-find-source-for-binding](https://stackoverflow.com/questions/14419248/cannot-find-source-for-binding)
   
 
