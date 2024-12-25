@@ -20,8 +20,6 @@
 
 title: Ken Tucker's Blog
 email: vb2ae@live.com
-description: >- # this means to ignore newlines until "baseurl:"
- Adventures in programming in c# and VB.net for the .net framework and .net.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vb2ae
