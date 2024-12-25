@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-## I’m Ken Tucker, a passionate developer dedicated to creating impactful software. Here's what I've been up 
+##  Ken Tucker's Adventures in programming in c# and VB.net for the .net framework and .net
 
 ### 🔭 Current Projects
 - **[Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)**: Powerful MVVM framework for WPF, UWP, and more.
@@ -34,7 +34,7 @@ permalink: /about/
 ## 📫 How to reach me 
 - [Email](mailto:vb2ae@live.com)
 - [LinkedIn](https://linkedin.com/in/ken-tucker-51786a4)
-- [Twitter](https://twitter.com/vb2ae)
+
 
 
 
