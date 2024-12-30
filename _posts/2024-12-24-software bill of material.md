@@ -30,7 +30,7 @@ First install the Microsoft sbom tool
 
 Second add the nuget package Microsoft.Sbom.Targets to the project you are creating nuget for.
 
-Finally add the following to the project file you want sbom created for
+Finally add the following to the project file you want sbom created form
 
     		<GenerateSBOM>true</GenerateSBOM>
 	</PropertyGroup>
