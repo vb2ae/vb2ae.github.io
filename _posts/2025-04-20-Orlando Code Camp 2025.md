@@ -9,8 +9,7 @@ You can find the sample code and PowerPoint in this repo.
 In this demo I talked about 
 * Facts
 * Theory
-* Capturing Console.Writeline in tests
-* Orderers
+* Capturing Console.WriteLine in tests
 * Fixtures
   
 
