@@ -76,4 +76,4 @@
 
 ---
 
-I would like to thank @K4PS3, @Yinimi, @darxis, @ravibaghel, @Lehonti,  @Stannieman, @erik-hooper, @danwalmsley, @KasperSK , @inforithmics, @emanonhero  for your contributions to this release.
+I would like to thank @K4PS3, @Yinimi, @darxis, @ravibaghel, @Lehonti,  @Stannieman, @erik-hooper, @danwalmsley, @KasperSK, @inforithmics, @emanonhero  for your contributions to this release.
